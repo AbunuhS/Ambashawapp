@@ -13,18 +13,3 @@
 - Responsive design for mobile and desktop
 
 ---
-
-## Screenshots
-
-![Home Screen](screenshot1.png)  
-![Transactions List](screenshot2.png)  
-
-*Replace screenshots with your app images.*
-
----
-
-## Installation / Usage
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/yourusername/ambashaw-app.git
